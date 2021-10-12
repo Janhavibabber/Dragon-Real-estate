@@ -1,0 +1,9 @@
+PowerShell Commands:-
+
+pip3 --version : to check the version of python installed.
+pip3 install --upgrade pip : to upgrade the python version installed 
+pip3 install --upgrade jupyter matplotlib numpy pandas scipy scikit-learn : to intall the jupyter notebook and libraries like pandas, nummpy,etc. or any framework.
+python -c "import seaborn" : To check if the library or framework is installed or not.
+jupyter notebook : To launch the jupyter notebook
+python -V : To check the current version of python installed
+pip -V : To check the current version of pip installed
